@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^2.2.0-rc.0"
+    "webpack": "^2.2.0-rc.0",
+    "lc-sdk": "^1.0.2"
   }
 }
